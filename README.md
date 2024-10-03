@@ -4,7 +4,10 @@
 
 The Face, Hand, and Emotion Tracker is a Python project that uses OpenCV and MediaPipe to detect faces, hands, and estimate emotions from live webcam input. This project provides a real-time interface to display detected facial landmarks, count fingers, and classify emotions based on facial expressions.
 
-![Demo Image](https://via.placeholder.com/600x400.png?text=Face%2C+Hand%2C+and+Emotion+Tracker)
+<div>
+    <img src="screenshot/face_detection.png" alt="Face Detection" width="45%" style="display:inline-block; margin-right: 2%;">
+    <img src="screenshot/hand_detection.png" alt="Another Demo" width="45%" style="display:inline-block;">
+</div>
 
 ## Features
 
