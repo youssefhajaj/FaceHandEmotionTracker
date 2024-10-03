@@ -29,3 +29,14 @@ The Face, Hand, and Emotion Tracker is a Python project that uses OpenCV and Med
    ```bash
    git clone https://github.com/youssefhajaj/FaceHandEmotionTracker.git
    cd FaceHandEmotionTracker
+
+2. Install the required packages:
+   ```bash
+   pip install opencv-python mediapipe numpy scipy
+
+3. Usage:
+- Ensure your webcam is working and accessible.
+- Run the main Python script:
+   ```bash
+   python file.py
+
